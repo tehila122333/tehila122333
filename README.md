@@ -30,5 +30,5 @@ Git · AWS · Docker · Bootstrap · .NET · MySQL · MSSQL · Spring
 
 ## 📬 Contact Me
 
-📧 Email: [your-email@example.com]  
+📧 Email: tehila122333@gmail.com  
 Feel free to check out my repositories for a closer look at my work!
