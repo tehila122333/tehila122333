@@ -6,17 +6,6 @@ With a proven ability to learn independently, I confidently dive into unfamiliar
 
 ---
 
-## 📁 Featured Projects
-
-• **[Project Name or Short Description]**  
-Briefly describe a project where you taught yourself a new technology or overcame a technical challenge.  
-_Tools: e.g., Python, React, Node.js_
-
-• **[Project Name or Short Description]**  
-Another project example, possibly focusing on teamwork or adaptability.  
-_Tools: e.g., Angular, SQL, AWS_
-
----
 
 ## 🛠️ Languages and Tools
 
