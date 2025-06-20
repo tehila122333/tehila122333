@@ -1,23 +1,52 @@
 ## 🌟 About Me
 
-Hi, I'm Tehila, a dedicated software developer who thrives on self-learning and quickly adapting to new technologies. My strong analytical skills and motivation enable me to tackle complex challenges with determination and focus. I have a passion for continuous growth—always eager to explore and master the latest tools and frameworks. I believe in the power of teamwork and collaboration, and I bring a positive, solution-oriented approach to every project.
+Hi, I'm **Tehila Friedland**, a passionate and self-motivated software developer with a strong ability to quickly adapt to new technologies. I thrive in dynamic environments where I can tackle complex challenges with creativity and precision. I'm always looking to grow—whether that's mastering new frameworks, contributing to meaningful projects, or collaborating with a great team.
 
-With a proven ability to learn independently, I confidently dive into unfamiliar tech stacks and deliver high-quality results. I value clear communication, responsibility, and striving for excellence in all my work.
+I bring:
+- 🔍 Strong analytical and debugging skills
+- 💡 Fast learning abilities and self-discipline
+- 🤝 A collaborative and solution-oriented mindset
+
+Whether diving into an unfamiliar codebase or building full-stack solutions from scratch, I enjoy making clean, efficient, and scalable software that makes a difference.
 
 ---
 
+## 🚀 Featured Projects
 
-## 🛠️ Languages and Tools
+### 🔹 [Chinese Auction Management System – Frontend](https://github.com/Tehila3202/AngularProject)
+A responsive Angular web application designed for managing online auctions with separate user and admin experiences.
 
-**Languages & Frameworks:**  
+- 🛒 User Features: Register, login, view and add products to a cart
+- 🛠 Admin Panel: Add/manage products and donor information
+- ✨ Built with Angular and styled using PrimeNG  
+_Tech Stack: Angular · PrimeNG · TypeScript · HTML · CSS_
+
+---
+
+### 🔹 [Chinese Auction API – Backend](https://github.com/tehila122333/API-Project)
+A RESTful API in .NET Core for managing auction logic, including admin control, product handling, shopping cart, and a raffle system.
+
+- 🔐 JWT Authentication
+- 🛍 Full shopping cart & checkout flow
+- 🎟 Built-in raffle system with winner selection
+- 📝 Swagger-enabled API docs  
+_Tech Stack: C# · ASP.NET Core · SQL Server · Entity Framework · Swagger · JWT_
+
+---
+
+## 🛠️ Languages & Tools
+
+**Languages & Frameworks**  
 JavaScript · TypeScript · Python · C# · Java · Node.js · React · Angular · SQL · MongoDB · HTML5 · CSS3
 
-**Tools & Platforms:**  
-Git · AWS · Docker · Bootstrap · .NET · MySQL · MSSQL · Spring
+**Tools & Platforms**  
+Git · AWS · Docker · Bootstrap · .NET · MySQL · MSSQL · Spring · Swagger · JWT
 
 ---
 
-## 📬 Contact Me
+## 📫 Let's Connect
 
 📧 Email: tehila122333@gmail.com  
-Feel free to check out my repositories for a closer look at my work!
+🔗 GitHub: [tehila122333](https://github.com/tehila122333)
+
+Feel free to explore my repositories for more projects and contributions!
